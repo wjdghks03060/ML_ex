@@ -1,2 +1,4 @@
-# ML_ex
-머신러닝 학습
+# app 설치 라이브러리
+```
+pip install streamlit
+```
